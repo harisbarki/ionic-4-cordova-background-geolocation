@@ -140,7 +140,7 @@
             "production": {
               "browserTarget": "app:build:production"
             },
-			"production": {
+			"hmr": {
 			  "browserTarget": "app:build:hmr"
 			}
           }
